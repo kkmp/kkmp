@@ -10,8 +10,8 @@ Hello! I'm currently preparing to defend my Master's thesis at Lublin University
 
 ### My repositories worth looking at
 1. Supporting System for Recording the Number of COVID Cases
-  1. [Server Application](https://github.com/kkmp/SSC)
-  2. [Client Application](https://github.com/kkmp/ssc-client)
+  - [Server Application](https://github.com/kkmp/SSC)
+  - [Client Application](https://github.com/kkmp/ssc-client)
 2. [COVID Data Integration Project](https://github.com/kkmp/COVID-Data-Integration-Project)
 3. [Online Shop with Tests](https://github.com/kkmp/Shop)
 4. [Online Museum App](https://github.com/kkmp/museum)
