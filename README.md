@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-Hello! I am a Master of Science in Software Engineering from the Lublin University of Technology. I primarily work as a full-stack application developer, with a particular focus on backend development. My favourite technologies are .NET and Angular.js. As a hobby, I enjoy programming AVR and ESP microcontrollers (Arduino) and building useful devices with them. I'm also looking for opportunities to gain more experience and expand my knowledge as a developer!
+Hello! I am a Master of Science in Software Engineering from the Lublin University of Technology. I primarily work as a full-stack application developer, with a particular focus on backend development. My favourite technologies are .NET and Angular.js. As a hobby, I enjoy programming AVR and ESP microcontrollers and building useful devices with them. I'm also looking for opportunities to gain more experience and expand my knowledge as a developer!
 
 ---
 
