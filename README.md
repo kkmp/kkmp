@@ -13,5 +13,6 @@ Hello! I'm currently preparing to defend my Master's thesis at Lublin University
   - [Server Application](https://github.com/kkmp/SSC)
   - [Client Application](https://github.com/kkmp/ssc-client)
 2. [COVID Data Integration Project](https://github.com/kkmp/COVID-Data-Integration-Project)
-3. [Online Shop with Unit Tests and Integration Tests](https://github.com/kkmp/Shop)
-4. [Online Museum App](https://github.com/kkmp/museum)
+3. [Online Shop with Unit Tests and Integration Tests](https://github.com/kkmp/Smart-Humidifier)
+4. [Smart Humidifier with Data Logging and Remote Control Using React and Arduino/ESP](https://github.com/kkmp/Shop)
+5. [Online Museum App](https://github.com/kkmp/museum)
